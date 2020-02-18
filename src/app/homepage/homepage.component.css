@@ -1,3 +1,13 @@
+
+.pw-img {
+    filter: blur(20px);
+    transition: all 500ms ease-in-out;
+}
+
+.loaded {
+    filter: blur(0px);
+}
+
 .container
 {
     /* width: 95%; */
